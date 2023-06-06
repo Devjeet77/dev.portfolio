@@ -33,7 +33,7 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        I Know that <span>Good Design</span> <br />
+        I Know that <span>Good Design new and new</span> <br />
         means <span>Good Business</span>
       </h2>
 
