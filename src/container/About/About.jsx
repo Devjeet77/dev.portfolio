@@ -58,7 +58,7 @@ const About = () => {
       </div>
       <div>
         <a
-          href="https://drive.google.com/file/d/10FgWc5xdCtiMyLqBwU5qoWR0cx4ymd1t/view"
+          href="https://drive.google.com/file/d/1imyQEWMuhZBeMNIsKDaphEnlc2Mwg_5M/view?usp=sharing"
           target="blank"
         >
           <button type="button" className="p-textx">
